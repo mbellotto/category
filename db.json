@@ -1,0 +1,35 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "title": "Cars"
+    },
+    {
+      "id": 2,
+      "title": "Bikes"
+    },
+    {
+      "id": 3,
+      "title": "Computers"
+    },
+    {
+      "id": 4,
+      "title": "Notebooks"
+    },
+    {
+      "id": 5,
+      "title": "Clothes"
+    },
+    {
+      "id": 6,
+      "title": "Shoes"
+    },
+    {
+      "id": 7,
+      "title": "Others"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
